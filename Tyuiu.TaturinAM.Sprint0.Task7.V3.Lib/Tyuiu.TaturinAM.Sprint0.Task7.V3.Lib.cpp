@@ -3,8 +3,24 @@
 
 #include "pch.h"
 #include "framework.h"
+#include "../Tyuiu.Cours.cpp/Tyuiu.Cours.cpp.cpp"
 
 // TODO: This is an example of a library function
-void fnTyuiuTaturinAMSprint0Task7V3Lib()
+class service : public ISprint0Task7
+
 {
-}
+	virtual bool Rezalt(int a, int b) override
+	{
+		int aa = a;
+		while (aa > 0)
+		{
+			int num == aa % 10;
+			if (num == b)
+			{
+				return true;
+			}
+			aa /= 10;
+		}
+		return false;
+	}
+};
