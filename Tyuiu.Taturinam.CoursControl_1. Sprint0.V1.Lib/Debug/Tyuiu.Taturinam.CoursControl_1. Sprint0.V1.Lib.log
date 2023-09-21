@@ -1,0 +1,3 @@
+﻿  pch.cpp
+  Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Lib.cpp
+C:\Users\student\source\repos\Tyuiu.Taturinam.CoursControl_0. Sprint0.V1\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Lib\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Lib.cpp(10,9): error C3668: 'Service::Proizved': method with override specifier 'override' did not override any base class methods

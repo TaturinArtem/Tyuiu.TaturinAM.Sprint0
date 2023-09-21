@@ -1,0 +1,6 @@
+﻿  Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Test.cpp
+D:\Тиу уник\визуал\Репозиторий\Tyuiu.TaturinAM.Sprint0\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Lib\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Lib.cpp(12,13): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\Тиу уник\визуал\Репозиторий\Tyuiu.TaturinAM.Sprint0\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Test\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Test.cpp(18,1): error C2668: Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual: неоднозначный вызов перегруженной функции
+D:\Тиу уник\визуал\среда\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(149,15): message : может быть "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(float,float,float,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+D:\Тиу уник\визуал\среда\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h(142,15): message : или       "void Microsoft::VisualStudio::CppUnitTestFramework::Assert::AreEqual(double,double,double,const wchar_t *,const Microsoft::VisualStudio::CppUnitTestFramework::__LineInfo *)"
+D:\Тиу уник\визуал\Репозиторий\Tyuiu.TaturinAM.Sprint0\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Test\Tyuiu.Taturinam.CoursControl_1. Sprint0.V1.Test.cpp(18,1): message : при попытке сопоставить список аргументов "(int, int, int)"
